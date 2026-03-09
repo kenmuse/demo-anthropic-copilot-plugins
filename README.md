@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> This repository contains a sample GitHub Copilot CLI (or VS Code) marketplace and plugin definitions build on top of code forked from https://github.com/anthropics/skills/.
+> This demonstrates how way to update a Claude skills repository to provide Agent Plugins to VS Code and Copilot CLI.
+
+----
+
 > **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io).
 
 # Skills
